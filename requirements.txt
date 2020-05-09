@@ -13,7 +13,7 @@ cryptography==2.3
 cssselect==1.0.3
 cycler==0.10.0
 decorator==4.4.2
-Django==2.1
+Django==2.2.10
 gast==0.3.3
 google-auth==1.14.2
 google-auth-oauthlib==0.4.1
